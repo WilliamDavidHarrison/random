@@ -12,6 +12,7 @@ const urls = [
     "https://github.com/WilliamDavidHarrison/html-404-page",
     "https://github.com/WilliamDavidHarrison/http-forwarder",
     "https://github.com/WilliamDavidHarrison/infinite-users",
+    "https://github.com/WilliamDavidHarrison/microsoft-logo",
     "https://github.com/WilliamDavidHarrison/restart.exe",
     "https://github.com/WilliamDavidHarrison/text-card",
     "https://github.com/WilliamDavidHarrison/url-shortener",
